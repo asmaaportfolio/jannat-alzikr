@@ -11,7 +11,7 @@ const Footer = () => {
           <ul>
             <li><a href="/">الرئيسية</a></li>
             <li><a href="/quran">القرآن الكريم</a></li>
-            <li><a href="/prayer-items">مواقيت الصلاة</a></li>
+           <li> <a href="/prayer-times">مواقيت الصلاة</a></li>
             <li><a href="/zakat">حساب الزكاة</a></li>
             <li><a href="/sunan">سنن منسية</a></li>
           </ul>

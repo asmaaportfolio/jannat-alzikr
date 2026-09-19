@@ -11,9 +11,9 @@ const ImageGallery = ({ title, images }) => {
                         <img 
                             src={image.src} 
                             alt={image.alt} 
-                            loading="lazy"  // ✅ إضافة Lazy Loading 
-                            width="300"     // ✅ تحديد عرض للصورة 
-                            height="200"    // ✅ تحديد ارتفاع للصورة
+                            loading="lazy" 
+                            width="300"    
+                            height="200"   
                         />
                     </div>
                 ))}

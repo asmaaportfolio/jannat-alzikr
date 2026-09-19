@@ -11,7 +11,7 @@ import prayer7 from "../../assets/prayer7.jpg";
 import prayer8 from "../../assets/prayer8.jpg";
 import prayer9 from "../../assets/prayer9.jpg";
 
-// مصفوفة صور الصلاة
+
 const prayerSteps = [
   
   { src: prayer1, alt: "تكبيرة الإحرام" },

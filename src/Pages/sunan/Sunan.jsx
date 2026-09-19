@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import "./Sunan.css"; // استيراد ملف CSS
+import "./Sunan.css"; 
 import IslamicQuiz from './IslamicQuiz'
 
 const sunanList = [
