@@ -2,9 +2,9 @@
 
 ### Reflect • Learn • Remember • Strengthen Your Faith
 
-A modern and responsive Islamic website built with **React, JavaScript, and Vite**, designed to provide useful Islamic resources and interactive features in one place.
+A modern and responsive Islamic website built with **React, JavaScript, and Vite**.
 
-[Jannat Al-Zikr Preview](./screenshots/Screenshot%20%2884%29.png)
+[Jannat Al-Zikr Home](./screenshots/home.png)
 
 ---
 
@@ -12,9 +12,9 @@ A modern and responsive Islamic website built with **React, JavaScript, and Vite
 
 **Jannat Al-Zikr** is a modern Islamic website designed to provide a simple and accessible digital experience for Muslims.
 
-The project brings together several useful features, including Quran browsing and listening, prayer times, Zakat calculation, Islamic Sunnahs, prayer and Wudu guides, and an interactive Islamic quiz.
+The project brings together useful Islamic resources and interactive features in one place, including Quran browsing and listening, prayer times, Zakat calculation, Islamic Sunnahs, prayer and Wudu guides, and an interactive Islamic quiz.
 
-The website focuses on a clean interface, responsive design, interactive components, and integration with external APIs to provide dynamic Islamic content.
+The website focuses on a clean interface, smooth navigation, responsive design, and integration with external APIs to provide dynamic Islamic content.
 
 ---
 
@@ -24,7 +24,7 @@ The website focuses on a clean interface, responsive design, interactive compone
 * 📱 Fully responsive design
 * 📖 Quran Surahs browsing
 * 🎧 Quran audio playback
-* 📜 Surah information and Tafsir content
+* 📜 Surah information
 * 🕋 Prayer times for different Arab countries
 * 🌍 Country selection for prayer times
 * 💰 Zakat calculator
@@ -39,7 +39,7 @@ The website focuses on a clean interface, responsive design, interactive compone
 * ⏱️ Timed quiz questions
 * 🎲 Random Sunnah feature
 * 🧭 React Router navigation
-* ✨ Smooth and interactive UI
+* ✨ Interactive UI
 * 📱 Responsive mobile navigation
 
 ---
@@ -52,11 +52,11 @@ Users can:
 
 * 📚 Browse all Quran Surahs
 * 🎧 Listen to Surah recitations
-* 📜 View available Surah information
+* 📜 View Surah information
 * ▶️ Play and pause audio
-* 📱 Browse the Quran comfortably on different screen sizes
+* 📱 Browse the Quran comfortably across different screen sizes
 
-The Quran data and Surah information are loaded dynamically using external APIs.
+Quran data and Surah information are loaded dynamically using external APIs.
 
 ---
 
@@ -76,7 +76,7 @@ Prayer times are retrieved dynamically using the **AlAdhan API**.
 
 ## 💰 Zakat Calculator
 
-Jannat Al-Zikr includes an interactive Zakat calculator that provides calculations for different types of wealth and assets.
+Jannat Al-Zikr includes an interactive Zakat calculator for different types of wealth and assets.
 
 The calculator includes:
 
@@ -93,7 +93,7 @@ Users can enter their values and receive the calculated Zakat amount based on th
 
 ## 💧 Prayer & Wudu Guides
 
-The project includes visual guides to help users learn the correct steps of:
+The project includes visual guides to help users learn the steps of:
 
 * 💧 Wudu
 * 🕌 Prayer
@@ -138,39 +138,31 @@ Jannat Al-Zikr is designed to provide a smooth experience across:
 * 📱 Tablet
 * 📱 Mobile
 
-The layout adapts to different screen sizes while maintaining accessibility and usability.
+The layout adapts to different screen sizes while maintaining usability and a consistent interface.
 
 ---
 
 ## 🔌 APIs & External Services
 
-The project integrates external APIs to provide dynamic content:
+The project integrates external services to provide dynamic content:
 
 * 📖 **Al Quran Cloud API** — Quran Surah data
 * 🕌 **AlAdhan API** — Prayer times
 * 📜 **Quran.com API** — Surah information
-
-The project also uses external Quran audio resources for Surah recitation.
+* 🎧 **MP3 Quran** — Quran audio recitations
 
 ---
 
 ## 🛠️ Technologies Used
 
-[React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-[Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-[React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-
-[Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-[React Icons](https://img.shields.io/badge/React_Icons-E91E63?style=for-the-badge)
-
-[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-[Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=reactrouter\&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
+![React Icons](https://img.shields.io/badge/React_Icons-E91E63?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge\&logo=googlefonts\&logoColor=white)
 
 ---
 
@@ -187,9 +179,9 @@ This project was created as a **React frontend practice project** to improve web
 * Interactive UI development
 * Responsive web design
 * JavaScript logic
-* Building reusable components
-* Working with external services
-* Creating a complete multi-page React application
+* Reusable components
+* External API integration
+* Building a complete React application
 
 ---
 
