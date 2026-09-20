@@ -4,7 +4,7 @@
 
 A modern and responsive Islamic website built with **React, JavaScript, and Vite**.
 
-[Jannat Al-Zikr Home](./screenshots/home.png)
+![Jannat Al-Zikr Home](./screenshots/home.png)
 
 ---
 
